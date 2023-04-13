@@ -25,3 +25,4 @@
 <hr/>
 
 Linkedin: `https://www.linkedin.com/in/siamak-salimy-48b28349/`
+E-mail : Salimy@ut.ac.ir
