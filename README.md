@@ -35,8 +35,6 @@ mov eax, 4 </br>
     mov ecx, message  </br>  
     mov edx, 15       </br>  
     int 0x80         </br>   
-
-    ; Exit the program</br>
     mov eax, 1     </br>  
     xor ebx, ebx   </br>   
     int 0x80         
