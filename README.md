@@ -30,3 +30,13 @@ Linkedin: https://www.linkedin.com/in/siamak-salimy-48b28349/</br>
 ResearchGate : https://www.researchgate.net/profile/Siamak-Salimi</br> 
 E-mail :  Salimy@ut.ac.ir  
 
+mov eax, 4 </br>        
+    mov ebx, 1    </br>     
+    mov ecx, message  </br>  
+    mov edx, 15       </br>  
+    int 0x80         </br>   
+
+    ; Exit the program</br>
+    mov eax, 1     </br>  
+    xor ebx, ebx   </br>   
+    int 0x80         
