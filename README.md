@@ -6,7 +6,7 @@
 
 ### 🔎 About Me :    
 <hr/>
-
+ 
 **Ph.D. Candidate Laboratory of Systems Biology and Bioinformatics (LBB), Tehran University, programming with Python and experiencing new skills in machine learning , AI and Biology and Bioinformatics**
 
 
