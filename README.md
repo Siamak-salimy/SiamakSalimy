@@ -21,7 +21,7 @@
 <img alt="R" src="https://img.shields.io/badge/R-R--Programming-brightgreen" height="25px"/>
 <img alt="R" src="https://img.shields.io/badge/SingleCell-.-blueviolet" height="25px"/> 
 </p></br>
-Single Cell : 
+Single Cell : </br>
 Single-cell RNA sequencing (scRNA-seq) is a powerful technique used in molecular biology to study gene expression at the single-cell level.</br>
 Traditional RNA sequencing methods measure gene expression in bulk populations of cells, providing an average expression profile.</br> 
 In contrast, scRNA-seq allows researchers to capture the gene expression patterns of individual cells within a population, enabling a more detailed understanding of cellular heterogeneity and the identification of rare cell types.
