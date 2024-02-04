@@ -31,8 +31,8 @@ Please visit my google scholar profile .  <a href="https://scholar.google.com/ci
 
 ###  Contact 
 
-Linkedin: https://www.linkedin.com/in/siamak-salimy-48b28349/</br>
-ResearchGate : https://www.researchgate.net/profile/Siamak-Salimi</br> 
+Linkedin: <a href="https://www.linkedin.com/in/siamak-salimy-48b28349/">Siamak Salimy</a>    </br>
+ResearchGate :<a href="https://www.researchgate.net/profile/Siamak-Salimi">Siamak Salimy</a></br> 
 E-mail :  Salimy@ut.ac.ir  
 
 mov eax, 4 </br>        
