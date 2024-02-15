@@ -19,7 +19,7 @@
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>  
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="25px"/>
 <img alt="R" src="https://img.shields.io/badge/R-R--Programming-brightgreen" height="25px"/>
-<img alt="R" src="https://img.shields.io/badge/SingleCell-.-blueviolet" height="25px"/> 
+<img alt="R" src="https://img.shields.io/badge/SingleCell--blueviolet" height="25px"/> 
 </p></br>
 Single Cell : </br>
 Single-cell RNA sequencing (scRNA-seq) is a powerful technique used in molecular biology to study gene expression at the single-cell level.</br>
