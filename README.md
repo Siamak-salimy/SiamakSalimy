@@ -8,8 +8,6 @@
 <hr/>
  
 **Ph.D. Tehran University,Laboratory of Systems Biology and Bioinformatics (LBB), programming with Python and experiencing new skills in machine learning , AI and Biology and Bioinformatics.** </br>  
-
-
 ###  🧰 Languages and Tools:     
 <hr/> 
 
