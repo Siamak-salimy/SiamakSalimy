@@ -41,4 +41,17 @@ mov eax, 4 </br>
     mov eax, 1     </br>  
     xor ebx, ebx   </br>   
     int 0x80         
+## :bar_chart:  My Stats
+
+<p align="center"> <b>Profile Views<b> 
+  <br>
+  <img src="https://profile-counter.glitch.me/{Siamak-salimy}/count.svg" alt="Profile Visits" />
+</p>
+
+<p align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Siamak-salimy&theme=dark&background=000000" alt="GitHub Streak" />
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Siamak-salimy&show_icons=true&theme=merko" align="left" height=160em>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siamak-salimy&layout=compact&theme=vision-friendly-dark" align="right" height=160em>
  
