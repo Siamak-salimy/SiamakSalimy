@@ -5,7 +5,6 @@
  ## Hi, I'm *** Siamak *🏆 Just  one step more.   **     
 ### 🔎 About Me :    
 <hr/>
- 
 **Ph.D.Bioinformatics,Tehran University,Laboratory of Systems Biology and Bioinformatics , programming with Python and experiencing new skills in machine learning , AI and Biology and Bioinformatics.** </br>  
 ###  🧰 Languages and Tools:     
 <hr/> 
