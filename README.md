@@ -5,7 +5,8 @@
  ## Hi, I'm *** Siamak *🏆 Just  one step more.   **     
 ### 🔎 About Me :    
 <hr/>
-**Ph.D.Bioinformatics,Tehran University,Laboratory of Systems Biology and Bioinformatics , programming with Python and experiencing new skills in machine learning , AI and Biology and Bioinformatics.** </br>  
+Ph.D. in Bioinformatics, Tehran University | Laboratory of Systems Biology and Bioinformatics
+Expert in Python programming, specializing in machine learning, AI, and computational biology. Passionate about advancing bioinformatics through innovative data-driven solutions and exploring cutting-edge techniques in systems biology. </br>  
 ###  🧰 Languages and Tools:     
 <hr/> 
 
